@@ -26,8 +26,8 @@ function App() {
           count is {count}
         </button>
         <p>
-    <h1>Hey ambu</h1>
-
+  
+  
 
 
 
